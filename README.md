@@ -1,7 +1,6 @@
-# Hi there, I'm Gabriele Santicchi 👋
+# 👋
 
-## PhD Executive Student in Biomedical Sciences | AI for Sports Analytics
-
+## PhD Executive Student in Sport Sciences | MSc in Biomedical Engineering (Politecnico di Milano)
 Specializing in AI applications for soccer player monitoring and performance analysis. Based in Milan, Italy.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in/gabrielesanticchi-blue?style=flat&logo=linkedin)](https://linkedin.com/in/gabrielesanticchi)
@@ -25,11 +24,6 @@ Specializing in AI applications for soccer player monitoring and performance ana
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### 🔭 Current Projects
-- **LSTM Multivariate Time Series Forecasting**: Developing deep learning models for predicting athletic performance metrics
-- **Kinect-IMU Motion Analysis**: Combining optical and inertial sensors for precision movement tracking
-- **Smart Pedometer with PSoC5**: Creating embedded systems for real-time athletic measurement
 
 ### 📊 GitHub Stats
 ![Gabriele's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielesanticchi&show_icons=true&theme=radical)
